@@ -1,4 +1,8 @@
 //var, let & const
+var num: number = 1234;
+var flag: boolean = false;
+var Other: any;
+
 var message = "Hello TypeScript";
 console.log(message);
 
